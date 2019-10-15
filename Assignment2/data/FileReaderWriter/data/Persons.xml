@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<person>
+  <firstName>Feynman</firstName>
+  <lastName>Richard</lastName>
+  <address>
+    <city>Pasadena</city>
+    <state>California</state>
+  </address>
+</person><person>
+  <firstName>Turing</firstName>
+  <lastName>Alan</lastName>
+  <address>
+    <city> London</city>
+    <state>England</state>
+  </address>
+</person><person>
+  <firstName>Gosling</firstName>
+  <lastName>James</lastName>
+  <address>
+    <city>San Francisco</city>
+    <state>California</state>
+  </address>
+</person><person>
+  <firstName>Godel</firstName>
+  <lastName>Kurt</lastName>
+  <address>
+    <city>Boston</city>
+    <state>Massachusetts</state>
+  </address>
+</person>

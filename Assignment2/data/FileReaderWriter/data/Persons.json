@@ -1,0 +1,32 @@
+{
+  "firstName": "Feynman",
+  "lastName": "Richard",
+  "address": {
+    "city": "Pasadena",
+    "state": "California"
+  }
+}
+{
+  "firstName": "Turing",
+  "lastName": "Alan",
+  "address": {
+    "city": " London",
+    "state": "England"
+  }
+}
+{
+  "firstName": "Gosling",
+  "lastName": "James",
+  "address": {
+    "city": "San Francisco",
+    "state": "California"
+  }
+}
+{
+  "firstName": "Godel",
+  "lastName": "Kurt",
+  "address": {
+    "city": "Boston",
+    "state": "Massachusetts"
+  }
+}
